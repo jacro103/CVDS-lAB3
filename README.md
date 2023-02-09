@@ -11,5 +11,13 @@
 #### Punto 2:
 | Numero     | Clase de equivalencia (en lenguaje natural o matemático)      | Resultado correcto / incorrecto.    |
 | ------------- | ------------- | -------- |
-| John          | Test1         | NewYork  |
-| Bob           | Test2         | Toronto  |
+| 1         | Test1         | NewYork  |
+| 2          | Test2         | Toronto  |
+| 3          | Test2         | Toronto  |
+| 4          | Test2         | Toronto  |
+| 5          | Test2         | Toronto  |
+| 6          | Test2         | Toronto  |
+| 7          | Test2         | Toronto  |
+| 8          | Test2         | Toronto  |
+| 8          | Test2         | Toronto  |
+| 8          | Test2         | Toronto  |
