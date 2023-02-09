@@ -9,7 +9,7 @@
       4. Edad entre los 18 a 65 años
 
 #### Punto 2:
- *| FirstName     | LastName      | City     |
+| FirstName     | LastName      | City     |
 | ------------- | ------------- | -------- |
 | John          | Test1         | NewYork  |
 | Bob           | Test2         | Toronto  |
