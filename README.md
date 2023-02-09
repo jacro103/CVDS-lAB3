@@ -9,9 +9,7 @@
       4. Edad entre los 18 a 65 años
 
 #### Punto 2:
-| Numero     | Clase de equivalencia (en lenguaje natural o matemático)      | Resultado 
-correcto / 
-incorrecto.    |
+| Numero     | Clase de equivalencia (en lenguaje natural o matemático)      | Resultado correcto / incorrecto.    |
 | ------------- | ------------- | -------- |
 | John          | Test1         | NewYork  |
 | Bob           | Test2         | Toronto  |
