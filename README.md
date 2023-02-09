@@ -7,3 +7,9 @@
       2. La edad es negativa o es cero.
       3. Edad superir a los 120
       4. Edad entre los 18 a 65 años
+
+#### Punto 2:
+ *| FirstName     | LastName      | City     |
+| ------------- | ------------- | -------- |
+| John          | Test1         | NewYork  |
+| Bob           | Test2         | Toronto  |
