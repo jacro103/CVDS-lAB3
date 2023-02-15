@@ -20,4 +20,6 @@
 | 6          | atelacion < 20         | incorrecta  |
 | 7          | tarifa <0         | incorrecto  |
 | 8          | tarifa >0         | correcto  |
+## hola
+
 
